@@ -1,0 +1,1 @@
+Prime obj=new Prime();
